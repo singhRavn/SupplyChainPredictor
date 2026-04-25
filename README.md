@@ -6,9 +6,7 @@ An AI-powered Supply Chain Disruption Analysis Agent that utilizes the Gemini AP
 
 Check out the demonstration video to see the agent in action:
 
-<video src="RecordingSupplyChain.mov" width="100%" controls="controls"></video>
-
-[**Click here to download / view the video directly**](./RecordingSupplyChain.mov)
+https://github.com/singhRavn/SupplyChainPredictor/raw/main/RecordingSupplyChain.mov
 
 ---
 
